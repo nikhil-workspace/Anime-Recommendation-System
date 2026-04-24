@@ -75,9 +75,3 @@ streamlit run app.py
 - Add anime poster images  
 - Hybrid model (ratings + genres)  
 - User login & personal recommendations  
-
----
-
-## ❤️ Acknowledgment
-
-Built as a beginner Machine Learning project using Streamlit.
